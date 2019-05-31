@@ -15,3 +15,6 @@ VALUES ("Melissa", 6, "F", "Black", "Sweet", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ("Grinch", 55, "M", "Grizzly", "Merry", 1);
+
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+VALUES ("Wendy", 3, "F", "Brown", "", 1);
