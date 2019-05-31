@@ -9,3 +9,6 @@ VALUES ("Tabitha", 2, "F", "Black", "Playful", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ("Sergeant Brown", 10, "M", "Grizzly", "Serious", 1);
+
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+VALUES ("Melissa", 6, "F", "Black", "Sweet", 1);
